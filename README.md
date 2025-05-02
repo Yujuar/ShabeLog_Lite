@@ -63,7 +63,7 @@ streamlit run shabelog_lite_final.py
 
 ---
 ## 💻 Google Colab 版（お試し・GPU推奨）
-Google Colab で実行できるしゃべログLiteです。
+> Google Colab で実行できるしゃべログLiteです。
 GPUモードで large モデルまで快適に動作します。
 
 ✅ インストール不要・即実行可
