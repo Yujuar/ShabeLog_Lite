@@ -73,8 +73,7 @@ GPUモードで large モデルまで快適に動作します。
 ✅ ngrokトンネル経由でWebUI操作OK
 
 📎 ノートブックはこちら（Googleアカウント要）
-👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yujuar/ShabeLog_Lite/blob/main/shabelog_lite_colab_ngrok.ipynb)
-
+👉 [shabelog_lite_colab_ngrok.ipynb](https://drive.google.com/file/d/17-3P6XHtpfSA3jSXWFyCycra1Fx0lLC4/view?usp=sharing)
 
 
 ## 🤖 開発・作者
