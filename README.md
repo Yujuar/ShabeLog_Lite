@@ -62,6 +62,20 @@ streamlit run shabelog_lite_final.py
 セッション状態による誤動作や再解析防止のため、設定のやり直しには「ブラウザの再読み込み」を行ってください。
 
 ---
+## 💻 Google Colab 版（お試し・GPU推奨）
+Google Colab で実行できるしゃべログLiteです。
+GPUモードで large モデルまで快適に動作します。
+
+✅ インストール不要・即実行可
+
+✅ GPUを使った高速文字起こし対応
+
+✅ ngrokトンネル経由でWebUI操作OK
+
+📎 ノートブックはこちら（Googleアカウント要）
+👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yujuar/ShabeLog_Lite/blob/main/shabelog_lite_colab_ngrok.ipynb)
+
+
 
 ## 🤖 開発・作者
 
